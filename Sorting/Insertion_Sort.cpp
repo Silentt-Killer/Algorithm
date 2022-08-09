@@ -25,7 +25,7 @@ int main(){
     }
 
     //Outer loop iterate over all number
-    for(int i=0;i<arr_size;i++) {
+    for(int i=1;i<arr_size;i++) {
     value=inser_arr[i];
     hole=i;
         while (hole>0 && inser_arr[hole-1]>value){
