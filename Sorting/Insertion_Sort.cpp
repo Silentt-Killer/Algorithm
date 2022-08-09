@@ -37,7 +37,7 @@ int main(){
     }
 
     // Print After Sorting
-    printf("\nBefore Sorting\n");
+    printf("\nAfter Sorting\n");
     for(int n=0;n<arr_size;n++){
         printf("%d ",inser_arr[n]);
     }
